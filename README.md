@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFtbmI4eGo3cDJhNTRhejVoejBzMXBrMHBoNWE3eHQwZGw1MHpiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)]
+![MasterHead](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)
 <h1 align="center">Hi 👋, I'm Aryan Batra</h1>
 <h3 align="center">A Final Year B.Tech (H) Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
